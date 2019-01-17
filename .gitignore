@@ -22,3 +22,5 @@ utils/00-git-and-*
 .DS_Store?
 ._*
 **/.DS_Store
+coverage
+.nyc_output
