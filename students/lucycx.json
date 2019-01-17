@@ -1,0 +1,14 @@
+{
+  "firstName": "Lucy",
+  "lastName": "Guo",
+  "nickName": "N/A",
+  "privateName": false,
+  "picture": "images/lucycx.jpg",
+  "privatePicture": false,
+  "email": "lucy.guo@mail.utoronto.ca",
+  "privateEmail": false,
+  "github": "lucycx",
+  "privateGithub": false,
+  "superpower" : "eating a lot of food at once",
+  "academicinterests": "I like exploring different ideas of theorists"
+}
